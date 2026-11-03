@@ -1,18 +1,19 @@
-DHARTI PATEL — PORTFOLIO WEBSITE
+DHARTI PATEL — PORTFOLIO
 
-WHAT'S INCLUDED
-- Responsive personal portfolio website
-- About, selected projects, skills and contact sections
-- Mobile navigation
-- Clickable email, phone and GitHub profile links
+Files:
+- index.html: website structure and content
+- style.css: dark navy / black styling and responsive layout
+- script.js: mobile navigation and current year
 
-HOW TO PREVIEW
-1. Extract this ZIP file.
-2. Open the extracted folder in VS Code.
-3. Open index.html in your browser (or use the VS Code Live Server extension).
+How to view:
+1. Keep all three files in the same folder.
+2. Double-click index.html to open it in a browser.
 
-IMPORTANT — PROJECT LINKS
-The two project cards currently link to your GitHub profile because the individual project repositories and live demos have not been created/published yet. The note on each card makes this clear. Once the actual repositories are ready, replace the GitHub profile URL in index.html with the exact repository URL, and add a separate Live Demo link only after deployment. No fake demo links are included.
+GitHub Pages:
+Upload the CONTENTS of this folder (index.html, style.css, script.js, README.txt)
+to the ROOT of the repository, replacing files with the same names.
+Do not upload the ZIP file itself or put the files inside another folder.
 
-PUBLISHING
-This is a static website and can be published free using GitHub Pages. The ZIP itself is not a public website URL. A public portfolio URL will exist only after the files are uploaded to GitHub and GitHub Pages is enabled.
+Note:
+Project cards describe portfolio projects in progress. They are not presented as completed or deployed applications.
+Google Fonts are loaded online; system fallback fonts are included.
